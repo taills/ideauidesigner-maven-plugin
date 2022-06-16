@@ -26,7 +26,7 @@ import org.apache.tools.ant.BuildListener;
 import org.apache.tools.ant.BuildEvent;
 import org.apache.tools.ant.types.Path;
 
-import com.intellij.uiDesigner.ant.Javac2;
+import com.intellij.ant.Javac2;
 
 import java.io.File;
 import java.util.Iterator;
